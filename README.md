@@ -20,5 +20,11 @@ streamlit run app.y & npx localtunnel --port 8501
 ```
 This code runs the `app.y` in the secure tunnel and provides the link to acess it in your browser
 
+```plain text
+Utilized Groq free API to call the llma model
+```
+
+<a href='https://console.groq.com/'>Sign up</a> for a Groq account
+
 
 
