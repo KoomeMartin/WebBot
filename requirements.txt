@@ -3,5 +3,4 @@ beautifulsoup4==4.12.2
 requests==2.31.0
 groq==0.5.0
 bs4
-selenium
 python-dotenv
